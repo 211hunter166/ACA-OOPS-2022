@@ -10,6 +10,7 @@
 ### 7) To copy a folder and its content from one location to another, use the XCOPY command:XCOPY /s /i 
 ### 8)The DEL (Delete) is used to delete files from the folders you have created. i)DEL *.DOCX => deletes all the files in the current folder that have the DOCX extension .
 ### 9) Use RD [Folder] to deleete folders
-### 10) use filelocation\filename.exe
+### 10) use filelocation\filename.exe to run a application
+
 
 
